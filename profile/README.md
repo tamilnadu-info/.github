@@ -4,9 +4,10 @@
   <p><strong>Tamil Nadu's open civic data platform</strong></p>
 
   <p>
-    <a href="https://tn-info.vercel.app">Main site</a> ·
-    <a href="https://github.com/tamilnadu-info/tn-info">Source</a> ·
-    <a href="https://github.com/tamilnadu-info/tn-info/issues">Issues</a>
+    <a href="https://tn-info.in">tn-info.in</a> ·
+    <a href="https://news.tn-info.in">News</a> ·
+    <a href="https://events.tn-info.in">Events</a> ·
+    <a href="https://github.com/tamilnadu-info/tn-info">Source</a>
   </p>
 
   <p>
@@ -28,11 +29,11 @@ We aggregate data across all 38 districts and serve it as a website, a free REST
 
 ## What's live
 
-| App | Coverage |
-|---|---|
-| **[tn-info.vercel.app](https://tn-info.vercel.app)** | Main dashboard · 38-district map · live wire · election · education · benefits · tech events |
-| **News desk** | HOT + HIDDEN curated Tamil Nadu news · provenance-first journalism |
-| **Events calendar** | Tech conferences · civic meetups · political schedule · iCal export |
+| App | URL | Coverage |
+|---|---|---|
+| **Main dashboard** | [tn-info.in](https://tn-info.in) | 38-district map · live wire · election · education · benefits · tech events |
+| **News desk** | [news.tn-info.in](https://news.tn-info.in) | HOT + HIDDEN curated Tamil Nadu news · provenance-first journalism |
+| **Events calendar** | [events.tn-info.in](https://events.tn-info.in) | Tech conferences · civic meetups · political schedule · iCal export |
 
 ## Open by default
 
