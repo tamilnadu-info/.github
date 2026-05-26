@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/constituencies-234-3F5B3A?style=flat-square" alt="234 constituencies" />
     <img src="https://img.shields.io/badge/license-MIT-E2A03F?style=flat-square" alt="MIT" />
     <img src="https://img.shields.io/badge/open--source-yes-1F1611?style=flat-square" alt="open source" />
+    <img src="https://img.shields.io/badge/contributions-welcome-0075CA?style=flat-square" alt="contributions welcome" />
   </p>
 
 </div>
@@ -45,15 +46,28 @@ We aggregate data across all 38 districts and serve it as a website, a free REST
 > TN-Info is not affiliated with the Government of Tamil Nadu or any political party.
 > Data is best-effort. Spot an error? [Open an issue](https://github.com/tamilnadu-info/tn-info/issues) — we fix within 24h.
 
+## Contribute
+
+We welcome data corrections, bug reports, new features, and documentation improvements.
+
+| | |
+|---|---|
+| [Report a bug](https://github.com/tamilnadu-info/tn-info/issues/new?template=bug_report.yml) | Something broken on the site |
+| [Correct data](https://github.com/tamilnadu-info/tn-info/issues/new?template=data_correction.yml) | Wrong election result, MLA, scheme detail, etc. |
+| [Request a feature](https://github.com/tamilnadu-info/tn-info/issues/new?template=feature_request.yml) | Suggest something new |
+| [Browse open issues](https://github.com/tamilnadu-info/tn-info/issues) | Pick something up |
+| [Read discussions](https://github.com/tamilnadu-info/tn-info/discussions) | Ideas and questions |
+
+Read the [Contributing Guide](https://github.com/tamilnadu-info/tn-info/blob/main/CONTRIBUTING.md) before submitting your first PR.
+
+## Community
+
+- [Code of Conduct](https://github.com/tamilnadu-info/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Security Policy](https://github.com/tamilnadu-info/.github/blob/main/SECURITY.md) — report vulnerabilities to hello@tn-info.in
+
 ## Built by
 
 [**Destrosec**](https://destrosec.com) and open-source contributors.
-
-## Contribute
-
-- [Browse open issues](https://github.com/tamilnadu-info/tn-info/issues)
-- [Read the source](https://github.com/tamilnadu-info/tn-info)
-- [Join discussions](https://github.com/tamilnadu-info/tn-info/discussions)
 
 ---
 
